@@ -36,6 +36,28 @@
 
 ![SHAP-PDP Grid](docs/images/output_shap_pdp_grid.png)
 
+### 5. 2D SHAP-PDP 交互热力图
+
+| x1 × x3 | x7 × x8 |
+|---|---|
+| ![2D SHAP-PDP x1 vs x3](docs/images/output_2d_shap_pdp_x1_x3.png) | ![2D SHAP-PDP x7 vs x8](docs/images/output_2d_shap_pdp_x7_x8.png) |
+
+### 6. SHP 空间映射与主导因子
+
+| GEO 空间效应 | x1 空间 SHAP |
+|---|---|
+| ![GEO 空间效应](docs/images/output_spatial_geo_effect.png) | ![x1 空间 SHAP](docs/images/output_spatial_x1_effect.png) |
+
+| x7 空间 SHAP | 主导因子空间分布 |
+|---|---|
+| ![x7 空间 SHAP](docs/images/output_spatial_x7_effect.png) | ![主导因子空间分布](docs/images/output_spatial_dominant_factor.png) |
+
+### 7. SHAP 聚类分析与空间映射
+
+| 聚类特征画像 | 聚类空间分布 |
+|---|---|
+| ![聚类雷达图](docs/images/output_cluster_radar.png) | ![聚类空间分布](docs/images/output_cluster_map.png) |
+
 ## 设计逻辑
 
 ```mermaid
