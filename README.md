@@ -6,13 +6,14 @@
 
 - 版本：26.0529.15
 - 发布日期：2026-05-29
-- Release：请在右侧或下方 Releases 中下载 ML建模平台_26.0529.15.zip
+- Release：请在右侧或下方 Releases 中下载 ML-Modeling-Platform_26.0529.15.zip
+- 解压后目录：ML建模平台
 - 适用系统：Windows 10 / 11 64 位
 
 ## 下载与使用
 
 1. 打开 [v26.0529.15 Release](https://github.com/Albert-007MAX/ML-Modeling-Platform/releases/tag/v26.0529.15)。
-2. 下载 ML建模平台_26.0529.15.zip。
+2. 下载 ML-Modeling-Platform_26.0529.15.zip。
 3. 解压完整 ML建模平台 文件夹。
 4. 双击 双击启动_平台.bat。
 5. 首次打开时按页面提示提交机器码并输入授权码。
