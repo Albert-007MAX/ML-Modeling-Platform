@@ -95,5 +95,6 @@ GitHub 下载文件：`ML-Modeling-Platform_26.0529.15.zip`
 
 - `.runtime` 为临时运行目录，可自动清理。
 - `records` 为历史分析记录目录，当前发行包保留该目录结构。
+- README 已补充完整效果图链路，包含平台首页、授权页、模型评估、SHAP / GeoShapley、SHAP-PDP、2D SHAP-PDP、SHP 空间映射、主导因子、SHAP 聚类和聚类空间映射。
 - 如需发布完全空白演示包，可在打包前清理 `records`。
 - 本版本适合作为 `26.0529.15` 正式发行归档版本。
