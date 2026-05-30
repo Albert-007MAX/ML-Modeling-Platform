@@ -4,9 +4,9 @@
 
 ## 当前发行版
 
-- 版本：`26.0529.15`
-- 发布日期：`2026-05-29`
-- 下载文件：`ML-Modeling-Platform_26.0529.15.zip`
+- 版本：`26.0530.22`
+- 发布日期：`2026-05-30`
+- 下载文件：`ML-Modeling-Platform_26.0530.22.zip`
 - 解压后目录：`ML建模平台`
 - 适用系统：Windows 10 / 11 64 位
 - 授权邮箱：`1778140731@qq.com`
@@ -82,8 +82,8 @@ flowchart LR
 
 ## 下载与使用
 
-1. 打开 [v26.0529.15 Release](https://github.com/Albert-007MAX/ML-Modeling-Platform/releases/tag/v26.0529.15)。
-2. 下载 `ML-Modeling-Platform_26.0529.15.zip`。
+1. 打开 [v26.0530.22 Release](https://github.com/Albert-007MAX/ML-Modeling-Platform/releases/tag/v26.0530.22)。
+2. 下载 `ML-Modeling-Platform_26.0530.22.zip`。
 3. 解压完整 `ML建模平台` 文件夹。
 4. 双击 `双击启动_平台.bat`。
 5. 首次打开时，授权页面会显示本机机器码。
@@ -101,4 +101,4 @@ flowchart LR
 
 ## 发行说明
 
-完整更新内容见 [`RELEASE_NOTES_26.0529.15.md`](RELEASE_NOTES_26.0529.15.md)。
+完整更新内容见 [`RELEASE_NOTES_26.0530.22.md`](RELEASE_NOTES_26.0530.22.md)。
